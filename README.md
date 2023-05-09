@@ -18,5 +18,6 @@ The following data were considered when writing the LP:
 
 <!-- GETTING STARTED -->
 ## Sample output
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps
+![image](https://github.com/abrahamcanafe/power-systems-optimal-economic-dispatch/blob/main/EEE259_Final_Project_Output.png)
+
+
