@@ -11,8 +11,8 @@ Mixed-integer linear program that simulates the optimal economic dispatch over a
 
 Information from the power system model diagrammed in `Course Project.xlsx` was used to write a mixed-integer linear program (LP) for optimal economic dispatch.
 
-The following data were considered when writing the LP:
-* Hydroelectric unit capacity limits: minimum and maximum power, startup costs, duty factors (cfs/MWh)
+The following data were considered when writing the mixed-integer linear program:
+* Hydroelectric unit capacity limits: minimum and maximum power, startup costs, duty factors
 * Reservoir elevation limits
 * Locational marginal prices over a 24-hour horizon
 
