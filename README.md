@@ -4,7 +4,7 @@ Linear program that simulates the optimal economic dispatch over a 24-hour horiz
 ## Built With
 
 * Written in MATLAB
-* Utilizes the YALMIP toolbox
+  * YALMIP toolbox
 
 <!-- ABOUT THE PROJECT -->
 ## Project Details
