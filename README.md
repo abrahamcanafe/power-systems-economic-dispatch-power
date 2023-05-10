@@ -1,5 +1,5 @@
 # Optimal Economic Dispatch Mixed-Integer Linear Program
-Mixed-integer linear program that simulates the optimal economic dispatch over a 24-hour horizon for a local power system with hydroelectric generators. The final project written 2022 for my Power Systems Economics class at my undergraduate university.
+Mixed-integer linear program that simulates the optimal economic dispatch over a 24-hour horizon for a local power system with hydroelectric generators. MATLAB code written in 2022 for my Power Systems Economics class at my undergraduate university.
 
 ## Built With
 
