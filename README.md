@@ -16,6 +16,10 @@ The following data were considered when writing the LP:
 * Reservoir elevation limits
 * Locational marginal prices over a 24-hour horizon
 
+## Power System Layout
+![image](https://github.com/abrahamcanafe/power-systems-optimal-economic-dispatch/blob/main/hydro_power_system.png)
+
+
 <!-- GETTING STARTED -->
 ## Sample output
 ![image](https://github.com/abrahamcanafe/power-systems-optimal-economic-dispatch/blob/main/EEE259_Final_Project_Output.png)
